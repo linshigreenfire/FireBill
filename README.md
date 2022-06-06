@@ -1,2 +1,2 @@
 # FireBill
-code repo for text analysis
+This repo contains supporting information for the paper ""
